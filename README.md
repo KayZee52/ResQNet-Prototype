@@ -1,5 +1,3 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
+This is the prototype of ResQNet AI app
 
 To get started, take a look at src/app/page.tsx.
